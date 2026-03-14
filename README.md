@@ -765,6 +765,3 @@ Model Export
 ✅ **Framework:** TensorFlow / Keras
 
 ---
-
-
-(which would make the repo look **much more impressive to recruiters** since you're finishing your MSc in ML).
