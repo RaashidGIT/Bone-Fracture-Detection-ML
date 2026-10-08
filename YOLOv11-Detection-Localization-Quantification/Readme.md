@@ -362,6 +362,21 @@ Final Evaluation & Graphs
 Result Archiving
 ```
 
+## 📸 Screenshots
+
+| **Screenshot 1** | **Screenshot 2** |
+| :---: | :---: |
+| <img width="1764" height="829" alt="Screenshot 2026-02-17 153254" src="https://github.com/user-attachments/assets/0c842aa5-3041-434a-9bc9-5811f383feb2" /> | <img width="1618" height="796" alt="Screenshot 2026-02-17 153336" src="https://github.com/user-attachments/assets/442fd903-2539-4406-8091-84b34f0bc8ec" /> |
+| **Screenshot 3** | **Screenshot 4** |
+| <img width="1564" height="597" alt="Screenshot 2026-02-17 153354" src="https://github.com/user-attachments/assets/f1add549-2a19-4e34-a28b-1623d0e0f907" /> | <img width="630" height="699" alt="Screenshot 2026-02-17 153501" src="https://github.com/user-attachments/assets/ae7fe71b-d877-47ec-b92d-aa37318a5b56" /> |
+| **Screenshot 5** | **Screenshot 6** |
+| <img width="284" height="666" alt="Screenshot 2026-02-18 230222" src="https://github.com/user-attachments/assets/f1759d10-19d7-4db6-90f4-c73675434215" /> | <img width="859" height="758" alt="Screenshot 2026-02-17 174447" src="https://github.com/user-attachments/assets/ab49dbeb-a511-47b7-bfa4-90c364232fc8" /> |
+| **Screenshot 7** | **Screenshot 8** |
+| <img width="914" height="607" alt="Screenshot 2026-02-17 194529" src="https://github.com/user-attachments/assets/c751fee6-7de0-4309-b448-d8b9a8e18599" /> | <img width="426" height="379" alt="Screenshot 2026-02-17 195550" src="https://github.com/user-attachments/assets/df4f18c6-5013-429d-9cf8-acf7aeac2212" /> |
+| **Screenshot 9** | **Screenshot 10** |
+| <img width="594" height="433" alt="Screenshot 2026-02-18 023057" src="https://github.com/user-attachments/assets/96adc855-6d41-4230-a0cd-078d887e6292" /> | <img width="1234" height="714" alt="Screenshot 2026-02-18 025003" src="https://github.com/user-attachments/assets/51eded9c-b3da-45dc-b900-f75d23576bbf" /> |
+| **Screenshot 11** | |
+| <img width="1095" height="210" alt="Screenshot 2026-02-17 191524" src="https://github.com/user-attachments/assets/271adf3b-bc29-43d8-83b0-0c183cf6f197" /> | |
 ---
 
 ✅ **Final Model:** YOLOv11s Graz Extended
